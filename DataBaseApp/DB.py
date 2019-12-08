@@ -69,29 +69,6 @@ class Employee:
         self.__conn.close()
 
 
-# TODO:
-# employees = Employee()
-
-# employees.add_record({
-#     "number": 2,
-#     "name": "Abdullah",
-#     "gender": "male",
-#     "nationality": "Jordanian",
-#     "dob": "03-06-1993",
-#     "address": "Amman, Jordan",
-#     "department": "IT",
-#     "salary": 9999500
-# })
-
-# employees.delete_reocrd(1)
-
-# employees.update_record({"name": 'Abd', }) # TODO: NOT WORKING YET
-
-# employees_list = list(employees.get_record())
-# print(employees_list)
-
-
-# DESKTOP WINDOWS
 class Windows:
     def __init__(self):
         self.__main_window = Tk()
