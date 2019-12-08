@@ -5,18 +5,6 @@ Created on Sun Dec  8 12:38:30 2019
 @author: Muath
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  6 19:15:03 2019
-@author: abdala
-Title:
-Project 3 Database
-Description:
-desktop interface to add employees information to the database (sqlite)
-and view them on desktop window,
-"""
-
 import sqlite3
 from tkinter import *
 
